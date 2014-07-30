@@ -1,11 +1,11 @@
-vagrant-devbox-reactive
-=======================
+Setup for a development node
+============================
 
 Vagrant and Chef definitions to setup a development node for the reactive course.
 
 Based on an Ubuntu trusty image (14.04) the following components are installed:
 
-- User 'devloper' with sudo permission
+- User 'developer' with sudo permission
 - Oracle Java 8
 - Eclipse Luna (4.4)
 - Ubuntu desktop
