@@ -8,7 +8,7 @@ Based on an Ubuntu trusty image (14.04) the following components are installed:
 - User 'developer' with sudo permission
 - Oracle Java 8
 - Eclipse Luna (4.4)
-- Ubuntu desktop
+- Ubuntu desktop (without recommendations)
 - Firefox and Chrome browsers
 - MySql 5.x and Apache 2.x
 - Clone of github joergkeller/reactive-java8-play
